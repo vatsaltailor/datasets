@@ -1,0 +1,201 @@
+Patient_First_Name,Patient_Last_Name,Treatments,Costs,Payment_Method
+Susan,Smith,"['MRI', 'EKG']","[305, 507, 1076]",Out-of-Pocket
+Robert,Baker,"['Ultrasound', 'X-ray']","[1175, 132, 1377]",Out-of-Pocket
+Nancy,Taylor,"['MRI', 'X-ray', 'Vaccination']",[1456],Medicaid
+Michael,Lee,"['X-ray', 'Consultation', 'Blood Test']","[85, 406, 955]",Medicaid
+Susan,Martin,"['MRI', 'X-ray']","[574, 808]",Medicare
+Linda,Baker,['Physical Exam'],"[736, 1257]",Insurance
+Susan,Smith,['Blood Test'],"[1361, 1424]",Insurance
+Elizabeth,Patel,['Consultation'],"[1307, 821, 1180, 820]",Medicaid
+Mary,Patel,['MRI'],"[143, 700, 1248]",Insurance
+Robert,Lee,"['Blood Test', 'MRI', 'X-ray', 'Consultation']",[882],Out-of-Pocket
+James,Rodriguez,['EKG'],"[781, 1448]",Out-of-Pocket
+Elizabeth,Patel,"['EKG', 'X-ray']","[1364, 858, 648, 1313]",Medicare
+Elizabeth,Brown,"['Surgery', 'Ultrasound', 'MRI']",[1322],Medicaid
+David,Patel,"['Consultation', 'Physical Exam', 'MRI', 'Surgery']","[826, 1140, 1429]",Medicare
+Nancy,Rodriguez,"['EKG', 'Physical Exam', 'MRI', 'Ultrasound']",[645],Medicare
+Michael,Lee,"['MRI', 'EKG']","[782, 1128, 981, 334]",Insurance
+Susan,Taylor,['Blood Test'],"[990, 707]",Out-of-Pocket
+Nancy,Patel,"['Consultation', 'EKG']","[370, 68]",Medicaid
+Mary,Brown,"['Blood Test', 'Ultrasound', 'MRI', 'Physical Exam']","[1476, 423, 378, 335]",Out-of-Pocket
+Mary,Smith,"['Ultrasound', 'Surgery', 'Consultation', 'Vaccination']",[570],Medicaid
+David,Baker,"['Vaccination', 'Surgery', 'MRI', 'Ultrasound']",[1238],Medicaid
+David,Taylor,['MRI'],[155],Medicare
+Elizabeth,Smith,"['Ultrasound', 'Blood Test', 'Physical Exam', 'Consultation']",[1134],Out-of-Pocket
+Linda,Martin,"['Ultrasound', 'Physical Exam', 'MRI', 'Surgery']","[628, 764, 778, 283]",Insurance
+James,Patel,"['MRI', 'X-ray']","[1208, 1202]",Insurance
+David,Rodriguez,"['Consultation', 'EKG']","[1317, 811, 966]",Medicare
+Elizabeth,Martin,"['Blood Test', 'Physical Exam']","[1213, 336]",Out-of-Pocket
+Nancy,Garcia,"['MRI', 'Ultrasound', 'Consultation', 'Physical Exam']","[725, 1142, 1005]",Medicare
+Elizabeth,Garcia,['MRI'],"[1423, 1182, 1370]",Medicaid
+Nancy,Chen,['Blood Test'],"[1425, 1473]",Out-of-Pocket
+Karen,Clark,"['Surgery', 'Blood Test']","[1099, 1338]",Medicaid
+Linda,Clark,['Blood Test'],[1189],Insurance
+William,Garcia,"['Consultation', 'MRI']",[581],Insurance
+Elizabeth,Chen,['Blood Test'],[293],Medicaid
+David,Smith,"['Consultation', 'EKG', 'Vaccination', 'MRI']",[508],Medicaid
+Robert,Brown,"['Vaccination', 'Blood Test', 'Physical Exam', 'MRI']",[1016],Insurance
+Elizabeth,Rodriguez,"['MRI', 'Surgery']","[587, 431, 337, 869]",Insurance
+Mary,Brown,['Vaccination'],"[441, 1164, 139]",Medicare
+Linda,Martin,"['X-ray', 'Vaccination']",[140],Medicare
+Nancy,Martin,"['Consultation', 'MRI', 'Surgery']","[738, 1347, 1232]",Out-of-Pocket
+Susan,Garcia,"['Blood Test', 'Physical Exam', 'EKG']",[1285],Medicaid
+Nancy,Lee,"['Physical Exam', 'Ultrasound', 'Vaccination']","[1206, 1357]",Medicare
+David,Chen,"['X-ray', 'MRI', 'EKG']",[1256],Out-of-Pocket
+Susan,Smith,['Surgery'],"[1484, 1040]",Out-of-Pocket
+Karen,Baker,"['Vaccination', 'Blood Test', 'X-ray', 'Physical Exam']","[181, 965]",Medicare
+Michael,Smith,['Vaccination'],[462],Out-of-Pocket
+Susan,Rodriguez,"['Blood Test', 'Physical Exam']",[645],Out-of-Pocket
+Mary,Baker,"['Vaccination', 'Physical Exam', 'Surgery']",[692],Medicaid
+James,Patel,"['Physical Exam', 'Consultation', 'MRI']","[856, 324, 140, 478]",Insurance
+William,Brown,['Ultrasound'],[1026],Out-of-Pocket
+Linda,Garcia,['Blood Test'],"[91, 1107, 1212]",Out-of-Pocket
+Susan,Lee,"['Blood Test', 'EKG', 'Physical Exam']","[1252, 478, 1412]",Medicare
+Karen,Baker,"['Blood Test', 'Vaccination']",[758],Out-of-Pocket
+Susan,Taylor,"['X-ray', 'Ultrasound', 'Physical Exam', 'MRI']","[1098, 1468, 888, 142]",Medicare
+Nancy,Brown,"['X-ray', 'Ultrasound', 'Physical Exam', 'Vaccination']","[558, 1451, 491, 191]",Out-of-Pocket
+Nancy,Baker,"['X-ray', 'Blood Test']",[1175],Out-of-Pocket
+James,Clark,"['Vaccination', 'MRI', 'Physical Exam', 'X-ray']","[1484, 1193, 1172, 991]",Medicaid
+David,Rodriguez,"['EKG', 'Ultrasound']",[444],Medicaid
+Michael,Rodriguez,"['Physical Exam', 'X-ray', 'Vaccination', 'MRI']","[605, 754, 793, 544]",Medicaid
+William,Garcia,"['Surgery', 'Blood Test', 'Physical Exam']","[647, 513, 198]",Insurance
+Elizabeth,Martin,"['MRI', 'EKG', 'Blood Test']",[449],Medicaid
+David,Brown,['X-ray'],"[1387, 1204, 976, 893]",Medicaid
+David,Taylor,"['Consultation', 'Blood Test', 'Physical Exam', 'Surgery']",[1007],Medicare
+Robert,Patel,"['Physical Exam', 'Consultation', 'MRI', 'Ultrasound']","[527, 461, 1169]",Medicaid
+Karen,Rodriguez,"['Surgery', 'Vaccination', 'Ultrasound', 'MRI']","[1336, 925]",Out-of-Pocket
+Linda,Smith,"['Blood Test', 'Physical Exam', 'EKG']","[1000, 97, 684, 298]",Out-of-Pocket
+Mary,Smith,['EKG'],"[999, 463, 1285, 457]",Medicare
+Robert,Clark,['Consultation'],"[1258, 1461]",Out-of-Pocket
+David,Martin,"['Ultrasound', 'Surgery']",[1225],Insurance
+William,Baker,"['Ultrasound', 'MRI']","[73, 149, 1304]",Insurance
+Susan,Garcia,"['Consultation', 'Surgery', 'X-ray']",[407],Medicare
+David,Garcia,"['Blood Test', 'Consultation', 'MRI']","[744, 713, 1072]",Insurance
+Susan,Smith,['MRI'],"[462, 546]",Out-of-Pocket
+Susan,Brown,['Blood Test'],[953],Medicaid
+William,Taylor,['Ultrasound'],"[429, 594, 227, 914]",Medicare
+Nancy,Chen,['Physical Exam'],[302],Insurance
+Elizabeth,Brown,"['MRI', 'X-ray', 'Consultation']","[811, 1157, 1074]",Insurance
+David,Patel,"['Vaccination', 'Blood Test']","[316, 189]",Medicaid
+James,Baker,"['MRI', 'Vaccination', 'Ultrasound', 'Consultation']",[1409],Out-of-Pocket
+James,Taylor,"['EKG', 'Physical Exam', 'Blood Test', 'MRI']","[1276, 581]",Medicaid
+David,Patel,"['MRI', 'Physical Exam', 'Ultrasound', 'Consultation']","[1131, 1142, 658]",Medicaid
+Karen,Smith,"['Surgery', 'X-ray']","[755, 1437, 546]",Medicaid
+James,Smith,"['X-ray', 'Ultrasound', 'MRI']","[164, 133]",Medicaid
+Mary,Baker,"['Blood Test', 'Vaccination', 'Consultation', 'X-ray']",[282],Out-of-Pocket
+David,Martin,['Vaccination'],"[833, 1267]",Insurance
+Susan,Martin,"['Consultation', 'EKG', 'Blood Test', 'X-ray']",[494],Medicaid
+Nancy,Garcia,"['Physical Exam', 'EKG', 'X-ray']","[621, 1171, 1315]",Out-of-Pocket
+Michael,Clark,['Blood Test'],"[746, 398, 196, 90]",Medicaid
+Robert,Taylor,['EKG'],[1224],Medicare
+David,Martin,['EKG'],"[1340, 749]",Medicaid
+Michael,Taylor,"['Consultation', 'EKG']","[756, 606]",Out-of-Pocket
+Susan,Brown,"['Blood Test', 'EKG']","[240, 485]",Medicare
+Elizabeth,Rodriguez,"['Physical Exam', 'Ultrasound']",[1223],Medicare
+Elizabeth,Baker,['X-ray'],"[1026, 1447, 1440, 292]",Medicaid
+Elizabeth,Lee,"['Physical Exam', 'Ultrasound', 'Blood Test']","[531, 843, 127, 581]",Medicaid
+David,Brown,"['X-ray', 'Ultrasound', 'Consultation', 'Blood Test']","[1360, 661, 115, 345]",Medicaid
+James,Brown,"['Surgery', 'EKG', 'Vaccination', 'Blood Test']","[537, 397, 940]",Medicare
+Mary,Brown,"['EKG', 'X-ray']",[700],Medicaid
+Mary,Chen,"['X-ray', 'MRI', 'EKG']","[809, 527, 787, 304]",Medicaid
+William,Lee,"['EKG', 'Physical Exam', 'X-ray']","[282, 470]",Medicare
+Michael,Chen,"['MRI', 'X-ray', 'Ultrasound', 'Surgery']",[311],Insurance
+Susan,Baker,"['Surgery', 'Physical Exam', 'Ultrasound']",[989],Medicaid
+Nancy,Garcia,"['Surgery', 'Ultrasound', 'Vaccination']","[194, 570, 240]",Medicaid
+Robert,Smith,"['X-ray', 'Blood Test', 'EKG', 'Consultation']","[387, 210, 842, 197]",Medicare
+William,Baker,"['Blood Test', 'EKG', 'X-ray']","[1166, 1472]",Out-of-Pocket
+William,Patel,"['Consultation', 'EKG', 'X-ray', 'Surgery']","[94, 81, 904, 550]",Medicare
+William,Clark,['Vaccination'],"[1410, 558]",Out-of-Pocket
+Linda,Patel,"['Surgery', 'Ultrasound', 'X-ray']","[930, 980, 730, 1272]",Insurance
+William,Garcia,"['MRI', 'X-ray']","[933, 495]",Medicare
+Susan,Chen,"['Ultrasound', 'Surgery', 'Vaccination']","[61, 751, 495]",Medicare
+Michael,Brown,"['MRI', 'EKG', 'Vaccination']","[1074, 1152, 1179, 447]",Medicare
+Nancy,Smith,"['X-ray', 'MRI']",[1043],Insurance
+David,Garcia,['Consultation'],"[191, 1305, 740, 222]",Insurance
+Mary,Chen,"['X-ray', 'Consultation', 'Surgery', 'EKG']",[1257],Medicare
+David,Chen,"['EKG', 'X-ray']",[279],Out-of-Pocket
+Michael,Clark,['Ultrasound'],[961],Out-of-Pocket
+Karen,Baker,"['EKG', 'Vaccination', 'Blood Test', 'Surgery']","[411, 1454, 119, 644]",Medicare
+William,Clark,"['Ultrasound', 'EKG', 'Surgery', 'X-ray']","[290, 1132, 858, 571]",Medicare
+Michael,Baker,"['Vaccination', 'Physical Exam']","[253, 366, 1124, 173]",Medicaid
+Michael,Clark,"['Consultation', 'Physical Exam', 'MRI', 'Vaccination']","[1263, 1154, 588]",Medicaid
+Linda,Rodriguez,"['MRI', 'Physical Exam', 'Consultation', 'Blood Test']","[465, 153, 795]",Out-of-Pocket
+James,Clark,"['Blood Test', 'Vaccination', 'Surgery']","[973, 1437, 1042]",Medicare
+Robert,Taylor,"['X-ray', 'Consultation', 'Vaccination', 'Physical Exam']","[1252, 790]",Medicare
+Linda,Taylor,"['Ultrasound', 'Blood Test', 'Surgery', 'Vaccination']","[1295, 259, 231, 621]",Medicare
+Linda,Martin,"['MRI', 'Consultation', 'Surgery', 'Physical Exam']","[1429, 449]",Out-of-Pocket
+Susan,Martin,['MRI'],"[668, 1469]",Out-of-Pocket
+Karen,Taylor,"['Blood Test', 'MRI', 'Surgery']",[730],Medicaid
+Nancy,Chen,"['Physical Exam', 'MRI']","[439, 1239, 1217]",Medicaid
+Nancy,Smith,['Vaccination'],"[1449, 1430, 1375, 1160]",Insurance
+Nancy,Chen,['Consultation'],"[280, 882, 1243]",Out-of-Pocket
+Susan,Clark,"['EKG', 'Surgery', 'Consultation', 'MRI']","[387, 525, 274]",Medicaid
+David,Smith,"['MRI', 'Ultrasound', 'Vaccination']","[1074, 1080, 111]",Medicare
+Nancy,Smith,['Consultation'],[1419],Medicaid
+Michael,Taylor,"['Vaccination', 'Blood Test', 'X-ray', 'Physical Exam']","[276, 804]",Out-of-Pocket
+Michael,Smith,"['Ultrasound', 'X-ray', 'Physical Exam', 'Surgery']","[88, 716, 803, 54]",Out-of-Pocket
+Linda,Baker,"['Blood Test', 'Consultation', 'Physical Exam', 'Surgery']","[993, 1094, 129]",Medicare
+William,Baker,"['Blood Test', 'Ultrasound', 'Physical Exam', 'Consultation']","[1223, 1382, 723, 1269]",Medicaid
+Nancy,Brown,"['Surgery', 'X-ray', 'Ultrasound']",[920],Medicare
+Karen,Baker,"['Ultrasound', 'Blood Test', 'Consultation', 'X-ray']","[353, 175]",Medicaid
+Robert,Clark,"['Surgery', 'Physical Exam', 'X-ray', 'MRI']","[1208, 346]",Medicaid
+Linda,Chen,"['Ultrasound', 'X-ray', 'Consultation']",[1051],Medicare
+Mary,Lee,"['Ultrasound', 'Consultation', 'X-ray']","[142, 1152, 666]",Insurance
+Michael,Patel,"['EKG', 'Ultrasound', 'Physical Exam']","[84, 1433, 1248]",Insurance
+Robert,Patel,"['EKG', 'MRI']","[1080, 863, 429]",Insurance
+Linda,Lee,"['Blood Test', 'Consultation', 'MRI', 'X-ray']","[671, 1294]",Medicare
+Linda,Baker,"['MRI', 'Vaccination', 'X-ray', 'Blood Test']","[1190, 433, 574, 1030]",Out-of-Pocket
+Robert,Garcia,"['Vaccination', 'Blood Test', 'X-ray']","[568, 152, 418, 1371]",Out-of-Pocket
+Robert,Lee,['Consultation'],[332],Medicaid
+Nancy,Smith,['Consultation'],[934],Insurance
+James,Chen,"['Surgery', 'X-ray']","[935, 99, 735]",Out-of-Pocket
+Susan,Rodriguez,"['X-ray', 'Consultation']","[798, 1214, 795, 673]",Medicaid
+James,Rodriguez,"['MRI', 'X-ray']","[1500, 59]",Medicaid
+Nancy,Lee,"['MRI', 'Physical Exam', 'Vaccination']","[88, 585]",Out-of-Pocket
+William,Smith,"['Consultation', 'X-ray']","[283, 895, 365, 254]",Out-of-Pocket
+Nancy,Clark,"['X-ray', 'Blood Test', 'Vaccination', 'Consultation']","[73, 260]",Medicare
+Elizabeth,Baker,['X-ray'],[695],Out-of-Pocket
+Nancy,Chen,['Vaccination'],"[240, 947, 76, 1473]",Out-of-Pocket
+William,Rodriguez,['X-ray'],"[910, 1395, 875, 1473]",Medicare
+Susan,Smith,"['X-ray', 'EKG', 'Consultation']","[1126, 357]",Insurance
+James,Rodriguez,"['Consultation', 'EKG', 'Ultrasound', 'MRI']",[781],Insurance
+William,Lee,"['X-ray', 'EKG']","[281, 466, 1197, 298]",Medicaid
+Mary,Chen,"['Ultrasound', 'Consultation', 'Vaccination']","[578, 611, 662]",Medicaid
+Susan,Garcia,"['Blood Test', 'EKG', 'Surgery']","[165, 292, 1047]",Medicare
+Nancy,Rodriguez,['Consultation'],"[138, 322, 154]",Out-of-Pocket
+Elizabeth,Taylor,"['Consultation', 'Blood Test']","[951, 957, 859, 890]",Medicare
+Nancy,Smith,"['Consultation', 'Blood Test', 'MRI']","[929, 349]",Medicaid
+Karen,Lee,"['Blood Test', 'MRI', 'Ultrasound', 'Consultation']","[165, 772]",Medicare
+Michael,Smith,"['X-ray', 'Consultation', 'Ultrasound', 'Vaccination']","[1337, 550, 87, 1311]",Out-of-Pocket
+Michael,Lee,"['Ultrasound', 'Vaccination']",[1142],Out-of-Pocket
+Robert,Clark,"['Physical Exam', 'Blood Test', 'Consultation', 'EKG']","[961, 617, 143, 553]",Out-of-Pocket
+Nancy,Taylor,"['MRI', 'Ultrasound', 'X-ray']",[1059],Out-of-Pocket
+Mary,Chen,['Ultrasound'],"[51, 351]",Out-of-Pocket
+William,Clark,"['X-ray', 'MRI', 'Physical Exam']","[832, 1342, 708]",Insurance
+Linda,Chen,"['Physical Exam', 'Blood Test', 'EKG']","[1349, 1328, 1404]",Medicaid
+Robert,Taylor,"['Consultation', 'Ultrasound']","[1284, 398]",Insurance
+Mary,Clark,"['Surgery', 'Physical Exam']",[704],Out-of-Pocket
+Michael,Lee,"['Ultrasound', 'Physical Exam', 'X-ray', 'Surgery']","[467, 679]",Out-of-Pocket
+William,Lee,"['EKG', 'Blood Test', 'X-ray']","[811, 259, 1168]",Insurance
+William,Baker,"['MRI', 'EKG', 'Blood Test']","[1277, 506, 769]",Insurance
+Susan,Patel,"['Consultation', 'MRI']","[941, 139, 1098, 96]",Medicare
+Michael,Garcia,"['Vaccination', 'Surgery']",[373],Medicare
+Elizabeth,Baker,['Ultrasound'],"[1111, 509]",Medicaid
+Karen,Taylor,"['Consultation', 'Ultrasound']","[478, 981, 69]",Medicaid
+David,Taylor,"['X-ray', 'Vaccination']","[484, 210, 253, 581]",Medicaid
+Elizabeth,Clark,['Surgery'],"[263, 1387]",Medicare
+Susan,Baker,['Consultation'],[1401],Insurance
+Robert,Baker,['Surgery'],[1290],Insurance
+Linda,Taylor,"['MRI', 'Blood Test']","[300, 678, 899, 1314]",Out-of-Pocket
+Karen,Smith,['X-ray'],"[763, 1174, 1290, 1208]",Out-of-Pocket
+James,Smith,"['MRI', 'Blood Test']","[1409, 1243, 1121, 143]",Out-of-Pocket
+Elizabeth,Martin,"['Physical Exam', 'Vaccination', 'Surgery', 'EKG']","[707, 220, 1304, 59]",Out-of-Pocket
+James,Rodriguez,['EKG'],[983],Out-of-Pocket
+David,Martin,['X-ray'],"[1445, 1233]",Medicaid
+Nancy,Brown,"['X-ray', 'Surgery', 'Vaccination']",[859],Medicaid
+William,Brown,"['Consultation', 'Ultrasound']","[407, 1067]",Insurance
+Mary,Smith,['Vaccination'],"[1429, 520, 857]",Out-of-Pocket
+Michael,Martin,"['Consultation', 'MRI', 'Ultrasound', 'Blood Test']","[819, 1425]",Insurance
+Karen,Baker,"['Vaccination', 'Consultation']",[1311],Medicare
+Nancy,Rodriguez,['Ultrasound'],"[58, 578, 612]",Medicare
+Susan,Lee,['EKG'],"[330, 805, 1446, 749]",Out-of-Pocket
