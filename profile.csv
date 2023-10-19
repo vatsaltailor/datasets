@@ -1,0 +1,451 @@
+Respondent_ID,Major,GPA,Tuition_Paid,Immigrant,Work_Experience_Months
+1,Literature,3.1,22000,Yes,8
+2,Industrial Engineering,2.6,30000,No,17
+3,CS,3.1,40000,Yes,26
+4,Literature,3.7,24000,No,13
+5,Literature,3.5,22000,No,15
+6,Industrial Engineering,2.7,30000,Yes,19
+7,CS,3.3,38000,No,23
+8,CS,3.3,40000,No,22
+9,Literature,3.1,22000,No,17
+10,Business,3,42000,No,15
+11,Literature,3.4,20000,No,9
+12,Literature,3.1,20000,No,10
+13,Literature,3.5,20000,Yes,12
+14,Literature,3.6,18000,No,9
+15,Industrial Engineering,3.4,30000,No,26
+16,CS,3.5,38000,No,21
+17,Industrial Engineering,2.7,30000,No,26
+18,Industrial Engineering,2.8,28000,No,17
+19,Industrial Engineering,3.3,34000,No,23
+20,Literature,3.6,20000,No,16
+21,Business,3.2,42000,No,14
+22,CS,4,34000,No,29
+23,Business,3.2,42000,No,17
+24,Industrial Engineering,3.4,30000,No,27
+25,Industrial Engineering,3.4,30000,No,24
+26,Business,3.2,42000,No,15
+27,Business,2.9,42000,No,14
+28,Business,3.2,36000,No,15
+29,Industrial Engineering,2.9,32000,No,17
+30,Industrial Engineering,3,24000,No,17
+31,CS,3.1,36000,No,19
+32,CS,3.2,42000,Yes,23
+33,Industrial Engineering,3.8,30000,No,25
+34,Business,2.4,40000,No,13
+35,Business,3.2,42000,No,13
+36,CS,2.7,42000,Yes,25
+37,Industrial Engineering,3,28000,No,18
+38,CS,3.5,36000,No,19
+39,CS,3.2,42000,No,20
+40,Literature,3.1,24000,Yes,17
+41,Literature,3.2,22000,Yes,15
+42,Literature,3.6,18000,No,10
+43,Business,2.8,42000,No,19
+44,Industrial Engineering,3.2,34000,No,22
+45,Industrial Engineering,3.1,32000,No,24
+46,Industrial Engineering,2.9,28000,No,24
+47,Industrial Engineering,3.7,30000,No,23
+48,Literature,3.6,20000,No,9
+49,Business,2.4,42000,No,12
+50,Business,3.1,42000,Yes,17
+51,Literature,3.2,22000,No,16
+52,Business,3.3,38000,No,18
+53,Literature,3.2,24000,No,15
+54,Industrial Engineering,3.1,32000,No,27
+55,Literature,3.6,22000,No,7
+56,Industrial Engineering,3.4,34000,No,24
+57,Industrial Engineering,2.7,28000,Yes,24
+58,CS,3.1,40000,Yes,29
+59,Literature,3.3,20000,No,17
+60,CS,3,34000,No,26
+61,Literature,3.9,22000,No,8
+62,Literature,3.5,24000,Yes,15
+63,CS,2.8,34000,Yes,19
+64,CS,3.5,38000,No,27
+65,Literature,4,24000,Yes,16
+66,Business,3.3,42000,No,16
+67,Industrial Engineering,2.6,30000,No,23
+68,CS,3.1,34000,No,23
+69,Industrial Engineering,3.5,30000,Yes,21
+70,Business,2.8,42000,No,15
+71,Business,3.1,38000,Yes,21
+72,Business,3.2,42000,No,23
+73,CS,2.9,42000,No,29
+74,Business,3,42000,No,14
+75,CS,2.2,40000,No,28
+76,Business,2.7,42000,No,20
+77,Industrial Engineering,3,30000,No,19
+78,Industrial Engineering,2.7,32000,No,16
+79,Literature,3.9,20000,No,9
+80,Industrial Engineering,2.7,34000,No,26
+81,Literature,3.3,20000,No,13
+82,Industrial Engineering,3.1,30000,No,24
+83,CS,3.6,36000,No,21
+84,Industrial Engineering,2.7,30000,No,24
+85,Literature,3.7,18000,No,6
+86,Literature,3.4,20000,Yes,10
+87,Business,2.7,40000,No,19
+88,CS,3.3,38000,No,19
+89,Industrial Engineering,3.2,34000,Yes,25
+90,Business,2.8,42000,No,14
+91,Industrial Engineering,3.1,36000,No,23
+92,Industrial Engineering,3,28000,No,20
+93,Business,3,42000,Yes,19
+94,Business,3.2,38000,No,13
+95,Business,3.5,40000,No,12
+96,Business,2.6,40000,No,22
+97,Business,3.6,42000,No,15
+98,Industrial Engineering,2.5,30000,No,25
+99,Business,3,42000,No,23
+100,CS,3.4,38000,No,20
+101,Literature,3.5,22000,No,9
+102,Business,2.8,40000,Yes,19
+103,Business,2.9,42000,No,23
+104,Industrial Engineering,3,32000,No,26
+105,Business,2.8,42000,No,18
+106,Business,3.3,42000,No,21
+107,Business,3.1,42000,No,13
+108,Industrial Engineering,2.9,30000,No,27
+109,Business,3.3,42000,Yes,23
+110,Literature,3.5,22000,No,7
+111,Industrial Engineering,3.3,32000,Yes,19
+112,Literature,3.6,22000,No,7
+113,Industrial Engineering,2.9,32000,No,19
+114,Business,2.8,42000,No,21
+115,Literature,3.6,18000,Yes,10
+116,Industrial Engineering,3.3,32000,No,17
+117,CS,3.2,36000,No,22
+118,Business,3,42000,No,23
+119,Industrial Engineering,3.5,30000,Yes,23
+120,CS,3,38000,No,22
+121,Industrial Engineering,3.3,30000,No,17
+122,CS,3.1,40000,No,29
+123,Business,2.9,42000,No,21
+124,Literature,3.7,22000,No,9
+125,CS,3.4,38000,No,18
+126,Industrial Engineering,3.3,28000,No,16
+127,Business,3.4,42000,No,13
+128,CS,3.2,42000,No,24
+129,Industrial Engineering,3.3,26000,No,27
+130,Industrial Engineering,3,30000,No,21
+131,Industrial Engineering,3.2,28000,No,26
+132,CS,3.2,40000,No,23
+133,CS,3.2,42000,Yes,26
+134,CS,3.4,36000,No,26
+135,Literature,3.2,20000,No,8
+136,CS,3.8,40000,No,22
+137,CS,2.9,34000,No,25
+138,CS,2.8,40000,No,18
+139,Literature,3.7,22000,No,10
+140,CS,3.4,38000,No,24
+141,Industrial Engineering,3.3,30000,Yes,27
+142,CS,3.4,40000,No,23
+143,Industrial Engineering,3.1,30000,Yes,25
+144,Industrial Engineering,2.8,28000,No,21
+145,Industrial Engineering,3.1,32000,No,25
+146,Literature,3.2,20000,No,13
+147,Literature,3.7,20000,No,16
+148,Literature,3.4,20000,No,10
+149,CS,3,40000,Yes,25
+150,Industrial Engineering,3,30000,No,23
+151,Literature,3.5,18000,No,11
+152,Literature,3.2,22000,No,7
+153,CS,3,38000,No,19
+154,Literature,3.5,20000,No,6
+155,CS,3.3,40000,Yes,28
+156,Business,2.8,42000,No,14
+157,Literature,3.3,24000,No,8
+158,Business,3.1,42000,Yes,20
+159,CS,2.8,42000,No,21
+160,Industrial Engineering,2.7,32000,Yes,22
+161,Literature,3.2,22000,Yes,7
+162,CS,3.1,36000,Yes,29
+163,Industrial Engineering,3.2,30000,No,26
+164,Industrial Engineering,3.5,30000,No,26
+165,Business,3.3,42000,No,16
+166,CS,3.2,34000,No,27
+167,Industrial Engineering,3.1,28000,No,17
+168,Literature,3.1,24000,No,6
+169,Literature,3.4,22000,No,6
+170,Business,2.9,42000,Yes,19
+171,Industrial Engineering,3.2,32000,No,21
+172,CS,3,40000,No,24
+173,Literature,3.6,22000,No,6
+174,Industrial Engineering,3.6,28000,No,21
+175,Industrial Engineering,3.1,30000,Yes,24
+176,Business,3.1,42000,Yes,17
+177,Literature,3.6,20000,No,14
+178,Literature,3.3,22000,No,8
+179,CS,3.3,42000,Yes,27
+180,Literature,3.4,22000,No,13
+181,CS,3.2,36000,Yes,20
+182,Literature,3.2,22000,No,8
+183,Business,3,42000,No,19
+184,Literature,3.5,20000,No,15
+185,CS,3.6,40000,Yes,22
+186,CS,3.5,38000,Yes,21
+187,Business,3.6,42000,No,22
+188,Literature,3.2,22000,Yes,14
+189,Literature,3.7,18000,No,11
+190,Business,3.1,42000,Yes,17
+191,Literature,4,20000,No,8
+192,Literature,3.2,22000,No,13
+193,CS,2.9,42000,No,22
+194,Literature,3.2,18000,No,17
+195,Literature,2.8,24000,No,11
+196,Business,2.8,42000,No,17
+197,Business,2.8,42000,No,18
+198,Industrial Engineering,3.1,30000,No,27
+199,CS,3.3,40000,Yes,27
+200,Literature,4,24000,No,11
+201,Literature,3.7,22000,No,14
+202,Industrial Engineering,2.9,32000,Yes,23
+203,Literature,3.1,22000,No,11
+204,CS,3.3,38000,No,20
+205,Industrial Engineering,2.7,30000,No,21
+206,CS,3.7,42000,No,20
+207,Industrial Engineering,3.5,32000,No,26
+208,Industrial Engineering,3,30000,Yes,20
+209,Business,2.5,42000,No,23
+210,CS,3.6,42000,No,24
+211,Literature,3.4,18000,Yes,13
+212,Literature,3.8,18000,No,12
+213,CS,2.7,38000,No,19
+214,Literature,3.2,22000,Yes,10
+215,Literature,3.4,20000,No,7
+216,CS,3.2,42000,No,25
+217,Industrial Engineering,3,32000,Yes,21
+218,CS,3.4,38000,No,27
+219,Industrial Engineering,2.8,26000,No,18
+220,Literature,3.4,18000,No,7
+221,Literature,3.4,22000,No,10
+222,Literature,3.6,18000,No,17
+223,Business,3.2,42000,Yes,20
+224,Industrial Engineering,2.8,30000,No,21
+225,Business,2.5,42000,No,18
+226,Business,3.4,42000,No,13
+227,CS,3.3,38000,Yes,29
+228,Business,2.8,42000,No,19
+229,CS,3.7,40000,Yes,21
+230,CS,3.2,42000,No,25
+231,Business,3.4,38000,No,13
+232,Industrial Engineering,3.1,28000,No,27
+233,Industrial Engineering,3.7,28000,No,18
+234,Industrial Engineering,3.6,30000,No,23
+235,Industrial Engineering,3,30000,No,18
+236,Industrial Engineering,3.4,32000,No,24
+237,Business,3.2,42000,No,21
+238,Business,3.4,36000,No,20
+239,Literature,3.1,20000,No,13
+240,Industrial Engineering,3.3,30000,No,26
+241,Business,3.3,36000,No,12
+242,Literature,2.9,20000,No,9
+243,Industrial Engineering,2.7,32000,No,18
+244,CS,2.6,38000,No,29
+245,Literature,3.3,20000,Yes,10
+246,Business,3.2,42000,No,20
+247,CS,3.7,38000,No,26
+248,CS,3.2,36000,No,20
+249,CS,3.7,38000,No,20
+250,Literature,3,22000,No,9
+251,Business,2.5,42000,No,16
+252,CS,3.2,40000,No,20
+253,Industrial Engineering,3.2,28000,Yes,16
+254,CS,3.2,38000,No,28
+255,CS,2.6,32000,Yes,29
+256,Literature,3.4,20000,No,10
+257,Literature,3,24000,No,10
+258,Business,3.2,40000,No,12
+259,Industrial Engineering,3.2,28000,Yes,24
+260,Literature,3.1,20000,Yes,15
+261,CS,3,42000,No,19
+262,Business,2.7,42000,Yes,13
+263,CS,3.2,38000,Yes,27
+264,CS,3.5,34000,Yes,25
+265,Literature,3.1,22000,No,6
+266,Business,3.2,42000,No,19
+267,Industrial Engineering,2.9,30000,No,19
+268,Industrial Engineering,2.9,30000,No,20
+269,Literature,3.4,22000,No,15
+271,Business,2.8,42000,No,16
+272,Industrial Engineering,2.7,30000,Yes,27
+273,Industrial Engineering,3.7,30000,Yes,20
+274,Industrial Engineering,3.1,30000,Yes,25
+275,CS,3,36000,No,23
+276,Industrial Engineering,3.2,32000,No,26
+277,CS,3.2,40000,No,28
+278,Business,2.9,42000,Yes,13
+279,CS,3.4,42000,Yes,29
+280,Business,3.2,40000,No,21
+281,Industrial Engineering,2.9,28000,No,25
+282,Industrial Engineering,2.9,26000,No,18
+283,Business,2.9,38000,No,21
+285,Business,2.5,38000,No,15
+287,CS,3.7,34000,No,18
+288,CS,3.1,38000,No,19
+289,CS,3.4,38000,No,24
+290,Industrial Engineering,3.2,28000,No,22
+291,CS,4,36000,Yes,25
+293,CS,3.2,40000,No,29
+294,Business,2.7,40000,No,12
+295,Business,2.5,42000,No,13
+296,Industrial Engineering,3.2,30000,No,16
+297,Business,2.8,42000,No,18
+299,CS,3,40000,No,25
+300,Industrial Engineering,2.8,30000,No,25
+301,CS,3.7,40000,Yes,18
+302,CS,3.5,38000,No,24
+304,Business,3.4,42000,No,17
+305,Business,3,42000,No,12
+306,CS,2.9,38000,No,26
+307,Industrial Engineering,3.6,28000,No,22
+308,Business,3.2,40000,No,21
+309,Industrial Engineering,2.8,26000,No,21
+310,Business,2.9,40000,No,13
+311,Industrial Engineering,2.8,26000,Yes,23
+313,Industrial Engineering,3.4,28000,No,26
+316,Industrial Engineering,3.3,26000,No,27
+318,CS,3.1,40000,No,18
+320,Business,2.7,42000,No,15
+321,Industrial Engineering,3.1,28000,No,25
+322,CS,3,38000,No,27
+323,Industrial Engineering,3.2,28000,No,27
+324,Business,3,38000,No,18
+325,Business,2.9,42000,No,17
+326,Business,2.7,42000,No,21
+329,Industrial Engineering,3.3,28000,No,22
+330,Industrial Engineering,2.8,30000,No,17
+331,CS,3.2,38000,Yes,23
+332,CS,3.4,38000,Yes,28
+333,Industrial Engineering,2.6,28000,Yes,26
+335,Business,2.8,40000,No,13
+336,Industrial Engineering,3.3,32000,No,19
+337,CS,3,42000,No,28
+339,Industrial Engineering,2.6,30000,No,24
+340,Industrial Engineering,3.1,28000,No,17
+342,Industrial Engineering,2.8,28000,No,20
+344,Business,2.5,42000,No,14
+348,Industrial Engineering,3.1,30000,No,26
+349,Industrial Engineering,2.8,30000,Yes,17
+351,Industrial Engineering,3.4,34000,Yes,23
+352,CS,3,36000,No,19
+353,CS,3.5,42000,No,23
+354,Industrial Engineering,2.8,32000,No,17
+355,Industrial Engineering,3.3,32000,Yes,24
+357,Business,2.3,42000,No,13
+358,Industrial Engineering,2.9,28000,No,22
+359,CS,3.4,38000,No,27
+361,Industrial Engineering,3.2,32000,No,22
+362,CS,3,36000,Yes,29
+363,CS,3.2,38000,No,24
+364,Business,3,42000,No,16
+367,Business,3.1,40000,No,17
+368,Business,2.9,42000,Yes,17
+371,Industrial Engineering,3.2,30000,No,20
+372,Industrial Engineering,3,30000,No,19
+373,Business,3.1,42000,No,17
+374,Industrial Engineering,3.7,28000,Yes,22
+375,CS,3.5,38000,No,20
+376,Industrial Engineering,3,32000,No,25
+377,Industrial Engineering,3.5,30000,No,21
+378,CS,3.1,40000,No,22
+379,Business,2.4,38000,No,13
+380,CS,2.9,42000,No,20
+381,Industrial Engineering,2.5,30000,No,27
+382,Business,2.9,38000,No,15
+383,Industrial Engineering,3.1,28000,No,18
+384,CS,3.7,42000,No,23
+385,CS,3.3,42000,No,21
+386,Industrial Engineering,3,30000,Yes,16
+389,CS,3.3,38000,No,24
+390,CS,3.4,40000,Yes,22
+393,Industrial Engineering,3.2,28000,No,20
+394,Industrial Engineering,3,32000,Yes,19
+396,Industrial Engineering,3.8,30000,No,21
+397,Industrial Engineering,3.2,28000,No,25
+398,Business,3.1,42000,No,14
+399,Industrial Engineering,3,30000,No,24
+400,CS,2.9,40000,No,18
+401,Industrial Engineering,3.3,28000,No,21
+402,Industrial Engineering,2.8,26000,No,25
+404,CS,3.1,42000,Yes,24
+405,Industrial Engineering,3.2,34000,Yes,18
+406,Industrial Engineering,3.2,32000,No,24
+407,Business,3.3,42000,No,12
+408,Industrial Engineering,2.9,32000,No,26
+409,Industrial Engineering,3,28000,No,18
+410,Business,2.7,42000,No,22
+412,Industrial Engineering,3.2,28000,Yes,24
+413,Business,3.2,42000,No,15
+414,CS,2.9,38000,No,28
+416,CS,3.6,36000,No,20
+417,CS,3.3,40000,No,23
+418,Business,3.6,42000,No,12
+419,Industrial Engineering,2.9,28000,No,18
+420,Business,2.6,42000,No,23
+421,Business,2.5,42000,No,23
+422,Business,3.4,40000,No,16
+423,Business,3.2,40000,No,23
+425,Industrial Engineering,3.2,30000,Yes,19
+426,CS,2.9,42000,No,26
+427,CS,3.9,42000,No,25
+428,Industrial Engineering,3.1,30000,No,27
+429,CS,3.2,42000,No,21
+430,Industrial Engineering,3.3,30000,No,24
+431,CS,3.3,38000,Yes,18
+432,Business,3.1,40000,No,13
+433,CS,3,38000,No,18
+434,Industrial Engineering,3.2,30000,Yes,27
+435,Industrial Engineering,3.7,32000,Yes,25
+436,Industrial Engineering,3.5,30000,No,25
+437,Industrial Engineering,3.6,26000,No,22
+438,Industrial Engineering,2.9,30000,No,19
+441,CS,3.2,42000,No,22
+442,Industrial Engineering,3.4,30000,No,25
+443,CS,2.7,40000,No,24
+444,Industrial Engineering,3.6,30000,No,16
+445,Industrial Engineering,3.1,32000,Yes,16
+448,Business,2.5,42000,No,23
+450,Business,3,42000,Yes,21
+451,Business,2.6,42000,No,17
+452,Business,2.6,36000,No,16
+453,Business,2.9,42000,No,13
+454,Business,3.5,42000,No,22
+455,CS,3.1,40000,No,27
+457,Business,2.9,42000,No,18
+458,Industrial Engineering,3,26000,Yes,21
+461,Business,2.9,42000,No,18
+462,CS,3.4,40000,Yes,24
+463,Business,3.6,40000,Yes,12
+464,CS,3.5,36000,No,18
+465,Industrial Engineering,3,30000,No,18
+467,Industrial Engineering,3.9,32000,No,24
+468,CS,3.2,38000,No,26
+469,CS,3.2,36000,No,19
+470,Industrial Engineering,3.1,34000,No,26
+471,CS,3.3,40000,No,19
+472,Industrial Engineering,3.1,32000,No,19
+474,Industrial Engineering,2.9,32000,No,20
+476,Industrial Engineering,2.9,28000,Yes,21
+477,CS,3,42000,No,22
+478,Industrial Engineering,3.1,32000,Yes,27
+479,CS,3.1,36000,No,18
+480,Industrial Engineering,3.6,28000,No,17
+481,Industrial Engineering,2.3,30000,No,16
+482,Business,3.3,42000,No,19
+483,CS,3.6,40000,Yes,18
+484,Business,2.4,42000,No,22
+485,CS,3.1,40000,No,24
+486,Business,2.9,42000,No,18
+488,Industrial Engineering,2.9,28000,Yes,18
+489,CS,2.9,42000,No,20
+490,CS,3.7,42000,No,21
+491,Industrial Engineering,3.4,36000,No,23
+492,CS,3.6,36000,No,20
+493,CS,3.4,38000,No,19
+494,Business,2.7,38000,No,23
+495,CS,3,40000,Yes,18
+498,Industrial Engineering,3.3,26000,No,19
+499,CS,3.1,36000,No,19
+500,Industrial Engineering,3,28000,No,17
