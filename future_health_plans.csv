@@ -1,0 +1,451 @@
+Patient_ID,Expected_Yearly_Medical_Expense,Interested_in_Health_Insurance,Years_Under_Medication,Enrolled_in_Fitness_Program,Primary_Care_Department,Open_to_Telemedicine,Chronic_Disease
+1,41000,No,43,False,Neurology,Yes,False
+2,12000,No,13,True,Orthopedics,No,False
+3,24000,Yes,42,False,Cardiology,No,False
+4,64000,No,51,True,Cardiology,Yes,False
+5,14000,No,12,False,Dermatology,No,False
+6,61000,Yes,51,True,Cardiology,Yes,False
+7,23000,No,30,True,Neurology,No,True
+8,8000,No,58,False,Cardiology,No,False
+9,27000,No,38,True,Dermatology,Yes,True
+10,56000,Yes,6,False,General Practice,No,True
+11,85000,Yes,48,False,Cardiology,No,False
+12,15000,Yes,30,True,Neurology,No,True
+13,91000,Yes,38,False,Neurology,No,True
+14,90000,Yes,15,False,General Practice,Yes,False
+15,71000,No,39,True,Neurology,Yes,False
+16,90000,No,19,False,Orthopedics,No,False
+17,74000,No,50,False,Dermatology,No,True
+18,82000,No,8,False,Neurology,No,True
+19,75000,No,57,False,Dermatology,No,True
+20,68000,No,53,False,Cardiology,Yes,True
+21,81000,Yes,16,False,General Practice,Yes,True
+22,19000,No,5,True,Orthopedics,Yes,False
+23,48000,Yes,45,False,Dermatology,Yes,False
+24,53000,No,39,True,Orthopedics,No,False
+25,22000,No,31,True,Cardiology,Yes,False
+26,66000,Yes,40,False,General Practice,Yes,False
+27,1000,No,38,False,Dermatology,Yes,True
+28,80000,Yes,18,False,General Practice,Yes,True
+29,82000,Yes,8,True,Orthopedics,Yes,False
+30,66000,No,30,True,Neurology,Yes,True
+31,42000,No,52,True,Cardiology,Yes,False
+32,76000,No,37,True,Dermatology,Yes,True
+33,88000,Yes,54,True,Cardiology,No,True
+34,3000,Yes,48,True,General Practice,No,True
+35,89000,Yes,18,True,Dermatology,Yes,True
+36,57000,Yes,44,True,Orthopedics,No,True
+37,57000,No,41,True,Neurology,No,False
+38,84000,No,26,True,Neurology,Yes,False
+39,21000,Yes,57,False,Dermatology,Yes,False
+40,28000,No,49,False,Orthopedics,No,False
+41,85000,Yes,26,True,Cardiology,Yes,False
+42,93000,Yes,40,False,Cardiology,No,False
+43,45000,Yes,50,False,Cardiology,Yes,False
+44,11000,No,43,True,Cardiology,Yes,False
+45,70000,No,45,True,Orthopedics,Yes,True
+46,72000,Yes,24,False,Cardiology,No,False
+47,18000,Yes,11,True,Orthopedics,No,True
+48,76000,No,20,True,Cardiology,No,False
+49,72000,No,33,True,Neurology,No,True
+50,19000,Yes,43,False,Cardiology,Yes,True
+51,35000,No,28,False,Cardiology,No,False
+52,54000,Yes,3,True,Dermatology,Yes,True
+53,12000,Yes,33,True,Neurology,Yes,True
+54,6000,Yes,34,False,Orthopedics,No,True
+55,13000,Yes,11,True,Dermatology,Yes,True
+56,65000,Yes,32,True,General Practice,No,False
+57,42000,Yes,17,True,Orthopedics,No,True
+58,100000,Yes,21,True,General Practice,Yes,True
+59,54000,Yes,45,True,Neurology,Yes,True
+60,75000,Yes,39,False,General Practice,No,True
+61,24000,No,25,False,Cardiology,Yes,False
+62,98000,No,29,False,Dermatology,Yes,True
+63,20000,No,30,False,General Practice,Yes,False
+64,47000,No,39,True,Orthopedics,No,True
+65,75000,No,30,True,General Practice,Yes,True
+66,30000,Yes,5,True,Cardiology,No,True
+67,44000,Yes,27,True,Neurology,Yes,False
+68,25000,No,15,False,General Practice,Yes,True
+69,99000,No,42,True,General Practice,Yes,False
+70,40000,Yes,7,False,Orthopedics,No,False
+71,51000,No,52,True,General Practice,Yes,False
+72,99000,No,54,False,General Practice,No,False
+73,37000,Yes,38,True,Neurology,No,False
+74,16000,No,19,False,Cardiology,No,True
+75,11000,Yes,31,False,Neurology,Yes,False
+76,94000,Yes,46,True,General Practice,Yes,False
+77,17000,Yes,25,True,Cardiology,No,False
+78,3000,Yes,20,False,Cardiology,Yes,False
+79,30000,Yes,32,True,General Practice,No,True
+80,32000,Yes,16,True,Neurology,No,False
+81,60000,No,7,False,Neurology,Yes,False
+82,92000,Yes,31,False,Dermatology,Yes,True
+83,84000,Yes,46,False,Cardiology,Yes,True
+84,48000,No,30,False,Neurology,No,True
+85,9000,Yes,53,True,Neurology,No,False
+86,31000,Yes,14,False,Cardiology,No,False
+87,5000,Yes,28,False,Orthopedics,Yes,True
+88,18000,No,59,False,Orthopedics,No,False
+89,71000,No,22,True,Dermatology,Yes,True
+90,23000,Yes,40,False,Orthopedics,Yes,True
+91,49000,No,28,False,Orthopedics,No,False
+92,16000,No,25,False,Neurology,No,True
+93,37000,No,22,True,Neurology,No,True
+94,42000,No,22,False,General Practice,Yes,False
+95,18000,Yes,9,False,General Practice,Yes,True
+96,24000,Yes,45,True,Dermatology,No,True
+97,98000,No,49,False,Orthopedics,No,False
+98,16000,No,16,True,Cardiology,No,False
+99,2000,Yes,30,True,Neurology,No,True
+100,63000,No,27,False,Dermatology,No,False
+101,68000,Yes,17,True,Neurology,Yes,False
+102,82000,Yes,40,False,Cardiology,Yes,True
+103,90000,Yes,24,True,Neurology,No,False
+104,50000,Yes,48,True,General Practice,No,True
+105,58000,No,45,False,Neurology,No,True
+106,82000,Yes,6,True,Neurology,Yes,True
+107,45000,No,20,True,Neurology,Yes,True
+108,73000,No,46,True,Dermatology,Yes,True
+109,5000,Yes,4,True,Orthopedics,Yes,True
+110,76000,No,53,True,General Practice,Yes,True
+111,72000,No,31,True,Cardiology,Yes,False
+112,20000,No,22,False,Cardiology,Yes,False
+113,54000,No,18,True,Dermatology,Yes,False
+114,4000,Yes,51,True,Dermatology,No,True
+115,4000,Yes,36,True,Orthopedics,Yes,True
+116,3000,No,29,True,Neurology,No,True
+117,6000,Yes,13,True,Dermatology,No,False
+118,83000,No,33,False,General Practice,Yes,False
+119,17000,Yes,18,True,Dermatology,No,True
+120,72000,No,48,False,General Practice,No,True
+121,44000,No,19,True,Orthopedics,No,False
+122,65000,No,46,False,Neurology,No,False
+123,60000,No,35,False,Neurology,Yes,False
+124,94000,Yes,31,True,Neurology,Yes,True
+125,70000,Yes,42,False,General Practice,Yes,True
+126,30000,No,34,False,Cardiology,Yes,False
+127,26000,No,17,False,General Practice,Yes,True
+128,44000,Yes,3,False,Dermatology,Yes,True
+129,3000,No,53,False,Cardiology,Yes,True
+130,34000,Yes,7,False,General Practice,No,True
+131,89000,Yes,42,False,General Practice,Yes,False
+132,96000,Yes,53,False,Orthopedics,No,False
+133,31000,No,31,False,Neurology,No,False
+134,82000,Yes,47,False,Cardiology,No,False
+135,19000,No,9,False,General Practice,Yes,True
+136,53000,Yes,32,True,General Practice,No,False
+137,24000,Yes,31,False,Cardiology,Yes,False
+138,18000,Yes,32,True,Neurology,No,False
+139,55000,Yes,37,True,Cardiology,No,False
+140,54000,No,19,False,Neurology,No,False
+141,66000,Yes,52,False,Cardiology,No,False
+142,69000,No,11,False,Cardiology,No,False
+143,18000,Yes,31,False,Orthopedics,Yes,True
+144,70000,Yes,23,True,General Practice,Yes,False
+145,91000,Yes,27,False,Cardiology,Yes,True
+146,77000,No,41,True,Neurology,No,True
+147,98000,No,19,True,Orthopedics,No,False
+148,3000,No,27,True,Dermatology,No,False
+149,73000,Yes,44,False,Orthopedics,Yes,True
+150,50000,Yes,10,False,General Practice,No,True
+151,48000,Yes,39,False,Cardiology,Yes,True
+152,79000,No,16,False,Cardiology,Yes,True
+153,76000,Yes,30,False,Neurology,Yes,False
+154,81000,Yes,33,False,Dermatology,Yes,True
+155,60000,Yes,15,False,General Practice,No,True
+156,57000,No,29,False,Orthopedics,No,True
+157,4000,Yes,27,True,Cardiology,No,False
+158,92000,No,14,False,General Practice,No,True
+159,2000,Yes,39,True,Dermatology,No,True
+160,93000,No,51,False,General Practice,No,False
+161,84000,Yes,41,False,General Practice,Yes,False
+162,76000,No,13,True,Dermatology,No,True
+163,17000,Yes,25,False,Orthopedics,Yes,False
+164,76000,No,31,True,Dermatology,No,False
+165,45000,Yes,20,False,Cardiology,No,False
+166,55000,No,42,False,Neurology,No,True
+167,35000,No,32,False,General Practice,No,False
+168,55000,Yes,12,True,General Practice,Yes,True
+169,98000,No,24,False,General Practice,No,False
+170,23000,No,33,True,Cardiology,Yes,True
+171,69000,Yes,22,True,Orthopedics,Yes,True
+172,8000,Yes,23,True,Dermatology,Yes,False
+173,15000,No,35,True,Dermatology,No,False
+174,22000,Yes,20,False,General Practice,Yes,True
+175,76000,No,50,False,General Practice,Yes,False
+176,28000,Yes,11,False,Neurology,No,True
+177,69000,No,25,False,Orthopedics,No,True
+178,67000,No,19,False,Dermatology,Yes,False
+179,96000,Yes,21,False,Orthopedics,No,True
+180,41000,No,49,True,General Practice,Yes,False
+181,85000,No,6,False,Cardiology,Yes,True
+182,76000,No,23,True,General Practice,No,True
+183,73000,Yes,35,False,Orthopedics,Yes,False
+184,70000,No,36,False,Orthopedics,No,False
+185,87000,No,47,True,Cardiology,No,False
+186,62000,No,43,False,Orthopedics,Yes,True
+187,47000,Yes,15,False,Neurology,Yes,False
+188,47000,Yes,35,False,Cardiology,Yes,False
+189,45000,Yes,7,True,General Practice,No,False
+190,93000,No,21,False,Cardiology,Yes,False
+191,42000,Yes,49,True,Neurology,Yes,False
+192,34000,Yes,28,True,Cardiology,Yes,True
+193,79000,No,52,True,Orthopedics,Yes,False
+194,27000,No,28,True,Dermatology,Yes,True
+195,41000,Yes,18,False,Neurology,No,False
+196,39000,No,13,True,Dermatology,No,True
+197,6000,Yes,49,True,Dermatology,No,False
+198,46000,No,22,True,Dermatology,Yes,True
+199,90000,Yes,26,False,Dermatology,Yes,True
+200,53000,No,42,True,General Practice,No,True
+201,53000,No,50,False,General Practice,Yes,True
+202,30000,Yes,45,False,Cardiology,No,True
+203,3000,Yes,48,True,General Practice,No,True
+204,79000,Yes,11,True,Orthopedics,Yes,True
+205,65000,No,12,True,Orthopedics,Yes,True
+206,55000,No,46,False,Orthopedics,No,False
+207,54000,Yes,47,False,Neurology,Yes,True
+208,30000,No,51,True,Orthopedics,Yes,True
+209,59000,Yes,9,True,Cardiology,Yes,False
+210,90000,Yes,6,False,Orthopedics,No,False
+211,79000,Yes,16,False,Cardiology,No,False
+212,16000,No,16,False,Dermatology,Yes,False
+213,44000,No,53,False,Cardiology,Yes,True
+214,7000,No,40,True,Orthopedics,Yes,False
+215,63000,No,58,True,Orthopedics,No,False
+216,83000,No,17,True,Cardiology,No,True
+217,86000,Yes,26,False,General Practice,No,False
+218,20000,No,15,True,Neurology,No,True
+219,79000,No,46,False,Neurology,No,True
+220,81000,Yes,19,False,General Practice,Yes,True
+221,96000,Yes,33,True,General Practice,Yes,True
+222,42000,Yes,27,False,Dermatology,No,False
+223,18000,Yes,32,False,Dermatology,Yes,False
+224,12000,Yes,50,False,General Practice,Yes,False
+225,50000,No,15,True,Dermatology,No,False
+226,65000,Yes,54,False,Cardiology,Yes,True
+227,74000,Yes,21,True,General Practice,No,False
+228,70000,No,33,True,Dermatology,Yes,False
+229,10000,No,44,False,Neurology,No,False
+230,90000,Yes,15,False,Dermatology,Yes,True
+231,9000,Yes,54,False,Cardiology,Yes,False
+232,18000,No,41,False,Neurology,No,True
+233,27000,No,39,False,Orthopedics,No,True
+234,29000,Yes,17,False,Neurology,No,True
+235,22000,Yes,50,True,Cardiology,No,True
+236,55000,Yes,1,True,General Practice,No,True
+237,45000,Yes,47,False,Neurology,Yes,True
+238,10000,No,54,False,Cardiology,Yes,False
+239,46000,No,50,False,Orthopedics,No,False
+240,72000,Yes,40,False,Orthopedics,No,True
+241,54000,No,35,True,Orthopedics,No,False
+242,26000,Yes,7,True,Orthopedics,Yes,False
+243,38000,Yes,42,False,Neurology,No,True
+244,24000,No,31,True,General Practice,No,True
+245,21000,Yes,0,False,General Practice,No,False
+246,81000,Yes,38,True,Orthopedics,Yes,False
+247,93000,No,44,True,Orthopedics,No,False
+248,48000,Yes,37,True,Neurology,Yes,False
+249,33000,Yes,8,True,General Practice,No,True
+250,36000,Yes,7,False,Cardiology,Yes,True
+251,39000,Yes,18,True,Orthopedics,Yes,True
+252,94000,No,16,True,Cardiology,No,True
+253,45000,No,26,True,General Practice,No,True
+254,7000,No,11,False,Orthopedics,Yes,False
+255,70000,Yes,43,True,Cardiology,Yes,True
+256,68000,No,8,True,Neurology,No,False
+257,40000,No,16,True,Cardiology,Yes,False
+258,58000,Yes,6,True,Neurology,No,True
+259,15000,No,6,False,General Practice,No,True
+260,10000,Yes,28,True,Cardiology,No,True
+261,81000,Yes,5,False,Neurology,Yes,False
+262,91000,No,4,False,Neurology,No,True
+263,55000,No,16,False,Dermatology,No,True
+264,5000,No,9,True,Cardiology,No,False
+265,16000,No,30,True,Neurology,No,True
+266,44000,No,51,True,Neurology,Yes,False
+267,35000,No,6,False,Orthopedics,Yes,False
+268,56000,Yes,48,False,Dermatology,No,True
+269,99000,Yes,14,True,General Practice,No,False
+270,26000,No,26,False,Dermatology,No,True
+271,40000,Yes,19,True,Cardiology,No,True
+272,99000,Yes,35,True,Dermatology,No,False
+273,94000,Yes,53,False,Dermatology,No,False
+274,24000,No,19,False,Dermatology,No,False
+275,73000,No,50,True,Dermatology,No,False
+276,35000,Yes,35,False,Cardiology,No,True
+277,78000,No,27,True,General Practice,Yes,True
+278,98000,Yes,24,False,Dermatology,No,True
+279,42000,Yes,41,True,Orthopedics,No,False
+280,26000,Yes,36,True,Cardiology,Yes,False
+281,63000,Yes,29,True,Cardiology,No,False
+282,22000,Yes,8,True,Cardiology,Yes,False
+283,22000,No,49,False,Dermatology,Yes,False
+284,92000,Yes,31,False,General Practice,No,True
+285,2000,No,45,True,Neurology,Yes,True
+286,88000,Yes,54,False,General Practice,No,True
+287,69000,No,14,True,Neurology,No,True
+288,53000,Yes,9,False,Orthopedics,Yes,False
+289,24000,No,45,True,Dermatology,No,True
+290,22000,Yes,39,False,Dermatology,No,True
+291,65000,No,18,True,Neurology,Yes,True
+292,25000,Yes,20,True,Dermatology,Yes,True
+293,52000,Yes,13,False,Orthopedics,No,False
+294,3000,No,46,True,Orthopedics,No,False
+295,93000,No,54,True,Neurology,Yes,True
+296,12000,No,33,False,Cardiology,Yes,True
+297,23000,No,49,True,General Practice,No,True
+298,14000,Yes,20,False,Dermatology,Yes,True
+299,83000,No,6,True,Dermatology,No,False
+300,62000,Yes,12,True,General Practice,No,True
+301,78000,No,18,False,Dermatology,Yes,False
+302,57000,Yes,27,False,Dermatology,No,False
+303,13000,No,4,False,Cardiology,Yes,True
+304,26000,Yes,45,True,Cardiology,No,False
+305,68000,No,52,True,Dermatology,No,True
+306,14000,No,30,False,Neurology,No,False
+307,93000,No,32,False,General Practice,No,False
+308,24000,Yes,37,True,Orthopedics,No,False
+309,51000,No,42,False,Neurology,No,False
+310,95000,Yes,43,False,Dermatology,Yes,False
+311,97000,No,7,True,Cardiology,Yes,True
+312,63000,No,25,True,Neurology,No,True
+313,54000,Yes,14,True,Dermatology,Yes,True
+314,52000,No,8,False,General Practice,Yes,True
+315,77000,Yes,39,True,Neurology,Yes,True
+316,42000,Yes,55,False,Dermatology,Yes,True
+317,18000,Yes,5,True,General Practice,No,True
+318,97000,No,55,False,Dermatology,No,True
+319,44000,Yes,18,False,Neurology,No,True
+320,74000,No,17,True,Cardiology,No,True
+321,77000,Yes,54,False,Cardiology,No,True
+322,38000,No,11,False,General Practice,Yes,True
+323,46000,No,49,True,Dermatology,Yes,False
+324,61000,No,30,False,Neurology,Yes,True
+325,53000,Yes,9,False,General Practice,Yes,False
+326,11000,No,51,True,Dermatology,Yes,False
+327,75000,Yes,52,False,Dermatology,No,True
+328,16000,No,8,False,Dermatology,No,False
+329,10000,Yes,39,True,Neurology,Yes,False
+330,45000,No,12,False,Cardiology,Yes,False
+331,62000,Yes,48,True,Orthopedics,No,True
+332,11000,Yes,30,False,General Practice,Yes,False
+333,25000,No,37,False,Orthopedics,No,False
+334,29000,Yes,43,True,Neurology,Yes,True
+335,11000,No,30,True,Neurology,No,False
+336,65000,No,34,True,Orthopedics,Yes,True
+337,65000,Yes,48,False,Neurology,No,False
+338,7000,Yes,58,True,Dermatology,Yes,False
+339,48000,No,24,False,Dermatology,Yes,False
+340,56000,Yes,42,True,General Practice,Yes,False
+341,98000,Yes,46,False,Orthopedics,No,True
+342,44000,No,11,True,Cardiology,No,True
+343,78000,Yes,11,False,Orthopedics,Yes,False
+344,30000,No,29,True,Neurology,No,False
+345,11000,Yes,54,False,Cardiology,No,True
+346,78000,No,11,False,Orthopedics,Yes,True
+347,90000,Yes,57,True,Dermatology,No,True
+348,3000,Yes,22,True,Neurology,Yes,False
+349,22000,Yes,48,False,General Practice,No,True
+350,50000,No,46,False,Neurology,Yes,True
+351,34000,Yes,52,True,Cardiology,Yes,False
+352,22000,No,11,False,Neurology,Yes,True
+353,82000,No,42,True,Cardiology,No,True
+354,97000,No,41,True,General Practice,Yes,True
+355,22000,No,53,True,Orthopedics,Yes,False
+356,44000,Yes,14,True,General Practice,Yes,False
+357,53000,Yes,34,False,Orthopedics,No,False
+358,10000,Yes,32,False,General Practice,No,False
+359,86000,No,21,False,General Practice,Yes,True
+360,50000,Yes,57,True,Neurology,Yes,True
+361,44000,Yes,25,False,Orthopedics,Yes,True
+362,55000,Yes,26,False,Cardiology,Yes,True
+363,51000,Yes,28,True,Cardiology,Yes,False
+364,62000,Yes,28,True,Dermatology,Yes,False
+365,16000,No,22,True,Cardiology,Yes,True
+366,69000,No,6,True,Cardiology,No,False
+367,7000,No,35,False,Cardiology,Yes,False
+368,78000,No,40,True,Orthopedics,Yes,True
+369,45000,Yes,7,False,Cardiology,No,True
+370,32000,No,52,True,General Practice,No,False
+371,5000,Yes,27,False,Cardiology,No,True
+372,51000,Yes,22,False,General Practice,Yes,True
+373,36000,No,19,False,Neurology,No,False
+374,100000,Yes,15,False,General Practice,No,False
+375,73000,Yes,21,False,Dermatology,Yes,False
+376,88000,No,4,True,Cardiology,No,True
+377,91000,No,14,True,Neurology,Yes,False
+378,7000,Yes,50,True,Orthopedics,Yes,True
+379,58000,Yes,39,False,General Practice,Yes,False
+380,18000,Yes,23,False,Orthopedics,No,False
+381,26000,No,22,True,Cardiology,Yes,True
+382,30000,Yes,53,False,Neurology,Yes,False
+383,13000,Yes,9,False,Orthopedics,No,False
+384,100000,No,9,False,General Practice,Yes,False
+385,53000,No,9,True,Cardiology,No,False
+386,38000,Yes,45,True,Dermatology,No,False
+387,67000,Yes,26,False,Orthopedics,No,True
+388,48000,Yes,29,True,Neurology,No,True
+389,31000,No,18,False,General Practice,No,True
+390,29000,Yes,34,True,Cardiology,Yes,False
+391,70000,No,22,False,Neurology,No,False
+392,77000,No,23,False,Dermatology,No,True
+393,57000,No,41,True,Neurology,Yes,True
+394,1000,Yes,40,True,Cardiology,Yes,True
+395,48000,No,41,True,Cardiology,No,False
+396,17000,Yes,33,False,Orthopedics,No,False
+397,83000,Yes,50,False,Cardiology,No,True
+398,36000,No,24,True,Neurology,No,False
+399,96000,No,43,True,Cardiology,No,False
+400,22000,No,16,True,Cardiology,Yes,False
+401,54000,Yes,13,True,Orthopedics,Yes,False
+402,19000,Yes,34,True,General Practice,Yes,True
+403,83000,No,43,False,General Practice,Yes,False
+404,84000,No,42,False,Orthopedics,No,True
+405,96000,Yes,17,False,Neurology,No,True
+406,33000,No,42,True,Dermatology,No,False
+407,48000,No,40,False,Dermatology,No,True
+408,49000,Yes,8,False,General Practice,No,False
+409,10000,Yes,50,False,General Practice,Yes,False
+410,35000,No,25,True,Cardiology,No,True
+411,41000,Yes,22,True,Cardiology,Yes,True
+412,92000,Yes,42,True,Cardiology,No,False
+413,33000,No,16,False,General Practice,Yes,True
+414,65000,Yes,31,True,General Practice,No,False
+415,74000,Yes,44,False,Dermatology,Yes,True
+416,33000,No,56,True,Neurology,Yes,True
+417,47000,Yes,7,False,General Practice,No,False
+418,88000,Yes,12,False,Cardiology,No,False
+419,89000,No,38,False,Dermatology,Yes,True
+420,88000,No,41,True,Neurology,Yes,True
+421,52000,Yes,50,True,Dermatology,Yes,False
+422,66000,No,18,False,Dermatology,No,False
+423,14000,Yes,26,False,Neurology,Yes,True
+424,9000,No,49,False,Cardiology,Yes,True
+425,7000,No,14,False,Orthopedics,No,False
+426,79000,No,19,True,Dermatology,No,True
+427,28000,Yes,11,True,Neurology,Yes,True
+428,33000,Yes,31,False,General Practice,No,True
+429,46000,Yes,12,True,General Practice,Yes,False
+430,97000,Yes,23,True,General Practice,No,False
+431,21000,No,42,False,Neurology,No,True
+432,81000,Yes,23,False,Orthopedics,No,True
+433,6000,No,3,False,General Practice,No,True
+434,54000,Yes,34,False,Orthopedics,Yes,False
+435,15000,Yes,48,True,Dermatology,No,True
+436,48000,No,43,True,Cardiology,No,True
+437,87000,No,34,False,Orthopedics,No,False
+438,47000,Yes,23,False,General Practice,Yes,True
+439,13000,Yes,18,True,Dermatology,No,False
+440,93000,No,37,False,Cardiology,No,True
+441,50000,No,29,True,Neurology,Yes,True
+442,44000,Yes,34,False,Dermatology,Yes,True
+443,90000,Yes,14,False,Dermatology,No,True
+444,82000,No,54,True,General Practice,No,True
+445,92000,No,53,True,Cardiology,No,True
+446,51000,No,21,True,Cardiology,Yes,False
+447,50000,No,35,False,Dermatology,No,True
+448,29000,Yes,10,True,Orthopedics,Yes,False
+449,59000,No,42,True,Dermatology,No,False
+450,7000,Yes,5,True,Neurology,No,False
