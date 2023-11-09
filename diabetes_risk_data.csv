@@ -1,0 +1,201 @@
+BMI,Physical Activity (hours/week),Smoking Status,Diet Quality,High Diabetes Risk
+30.3,2.18,Former smoker,Excellent,1
+33.88,4.87,Non-smoker,Good,0
+31.46,2.64,Former smoker,Excellent,1
+30.21,1.26,Non-smoker,Poor,1
+27.61,0.17,1-10 cigarettes/day,Poor,1
+32.39,0.47,>10 cigarettes/day,Good,1
+27.91,4.76,>10 cigarettes/day,Excellent,0
+37.67,3.18,Non-smoker,Poor,0
+39.22,3.76,1-10 cigarettes/day,Excellent,0
+26.74,6.28,Former smoker,Average,0
+35.52,6.93,>10 cigarettes/day,Good,0
+29.87,1.52,>10 cigarettes/day,Poor,1
+30.71,4.64,Non-smoker,Good,0
+38.4,1.84,1-10 cigarettes/day,Excellent,1
+20.03,0.14,Non-smoker,Good,0
+20.37,5.31,1-10 cigarettes/day,Excellent,0
+18.93,2.24,Non-smoker,Excellent,0
+36.4,2.68,>10 cigarettes/day,Average,1
+35.23,4.12,1-10 cigarettes/day,Good,0
+37.21,5.82,1-10 cigarettes/day,Excellent,0
+39.54,4.4,Non-smoker,Good,0
+35.68,6.11,Non-smoker,Good,0
+28.42,1.91,1-10 cigarettes/day,Good,1
+35.28,5.59,Former smoker,Good,0
+21.04,1.3,>10 cigarettes/day,Poor,0
+32.26,6.67,Former smoker,Excellent,0
+21.58,4.81,Former smoker,Good,0
+38.81,1.51,Former smoker,Poor,1
+29.72,6.63,Non-smoker,Poor,0
+27.42,5.12,1-10 cigarettes/day,Average,0
+24.19,1.78,Former smoker,Average,0
+35.15,1.49,Former smoker,Good,1
+28.31,3.63,>10 cigarettes/day,Average,0
+30.72,0.18,>10 cigarettes/day,Poor,1
+18.9,1.45,Former smoker,Excellent,0
+31.78,2.97,>10 cigarettes/day,Good,1
+31.66,2.62,Former smoker,Average,1
+31.76,3.25,>10 cigarettes/day,Excellent,0
+38.79,1.94,1-10 cigarettes/day,Poor,1
+33.16,4.11,Non-smoker,Average,0
+26.23,6.05,1-10 cigarettes/day,Good,0
+27.9,0.82,Former smoker,Average,1
+33.5,3.62,Former smoker,Good,0
+19.79,0.92,Former smoker,Good,0
+32.84,5.02,Former smoker,Average,0
+32.92,2.77,1-10 cigarettes/day,Good,1
+23.02,3.96,Non-smoker,Good,0
+21.27,1.28,Former smoker,Good,0
+25.28,1.01,1-10 cigarettes/day,Excellent,1
+26.32,3.42,>10 cigarettes/day,Good,0
+30.76,2.49,Former smoker,Average,1
+27.93,6.58,>10 cigarettes/day,Good,0
+39.75,5.36,Former smoker,Good,0
+20.69,5.24,Former smoker,Good,0
+22.99,6.33,1-10 cigarettes/day,Excellent,0
+21.97,0.58,Non-smoker,Good,0
+32.54,3.87,1-10 cigarettes/day,Poor,0
+23.95,4.09,1-10 cigarettes/day,Average,0
+28.53,6.73,>10 cigarettes/day,Average,0
+23.76,2.05,1-10 cigarettes/day,Excellent,0
+21.92,1.69,1-10 cigarettes/day,Poor,0
+20.87,0.7,1-10 cigarettes/day,Average,0
+32.61,0.12,Non-smoker,Poor,1
+21.47,6.51,>10 cigarettes/day,Average,0
+22.73,4.69,Former smoker,Excellent,0
+26.43,5.5,Former smoker,Average,0
+36.15,1.97,>10 cigarettes/day,Excellent,1
+20.59,4.1,>10 cigarettes/day,Excellent,0
+36.52,0.45,1-10 cigarettes/day,Good,1
+20.57,3.4,>10 cigarettes/day,Poor,0
+39.49,6.84,1-10 cigarettes/day,Excellent,0
+28.58,6.14,1-10 cigarettes/day,Poor,0
+39.5,2.37,Former smoker,Average,1
+31.5,6.73,>10 cigarettes/day,Poor,0
+34.39,1.62,Former smoker,Good,1
+19.34,6.65,>10 cigarettes/day,Average,0
+24.58,6.59,Former smoker,Average,0
+21.08,5.59,1-10 cigarettes/day,Good,0
+24.87,4.41,1-10 cigarettes/day,Poor,0
+21.05,6.12,Former smoker,Poor,0
+25.34,2.05,1-10 cigarettes/day,Average,1
+27.41,5.94,Non-smoker,Average,0
+19.88,4.33,Former smoker,Good,0
+33.39,0.09,Former smoker,Poor,1
+30.68,2.43,>10 cigarettes/day,Poor,1
+24.21,1.04,1-10 cigarettes/day,Poor,0
+29.75,6.87,Non-smoker,Good,0
+20.52,3.35,>10 cigarettes/day,Good,0
+30.88,3.48,Former smoker,Average,0
+38.48,4.48,Non-smoker,Excellent,0
+25.35,2.58,Non-smoker,Excellent,1
+32.85,0.96,1-10 cigarettes/day,Average,1
+21.33,5.75,Former smoker,Average,0
+33.9,1.33,>10 cigarettes/day,Excellent,1
+24.72,3.58,Non-smoker,Average,0
+22.44,1.57,Former smoker,Excellent,0
+31.11,0.68,1-10 cigarettes/day,Poor,1
+18.93,6.04,Former smoker,Poor,0
+36.32,6.81,1-10 cigarettes/day,Poor,0
+18.6,6.73,Former smoker,Poor,0
+33.07,6.35,>10 cigarettes/day,Good,0
+24.31,5.42,Former smoker,Good,0
+34.31,2.33,>10 cigarettes/day,Poor,1
+39.19,0.57,1-10 cigarettes/day,Average,1
+23.85,2.85,Non-smoker,Poor,0
+30.89,1.63,Non-smoker,Average,1
+31.23,0.93,>10 cigarettes/day,Good,1
+30.8,0.37,Former smoker,Excellent,1
+23.3,5.08,Former smoker,Good,0
+38.98,0.08,Former smoker,Excellent,1
+28.11,5.39,Non-smoker,Average,0
+36.7,1.03,1-10 cigarettes/day,Poor,1
+33.54,0.56,1-10 cigarettes/day,Excellent,1
+24.89,0.63,1-10 cigarettes/day,Excellent,0
+36.0,4.7,Non-smoker,Poor,0
+27.02,1.72,1-10 cigarettes/day,Average,1
+37.44,2.94,>10 cigarettes/day,Poor,1
+31.0,3.9,>10 cigarettes/day,Poor,0
+37.46,6.02,Non-smoker,Good,0
+33.39,5.09,Former smoker,Average,0
+34.09,1.89,1-10 cigarettes/day,Excellent,1
+29.28,0.92,1-10 cigarettes/day,Poor,1
+39.06,0.39,>10 cigarettes/day,Good,1
+32.35,2.11,Non-smoker,Excellent,1
+27.61,1.83,Former smoker,Poor,1
+31.54,3.19,1-10 cigarettes/day,Poor,0
+18.91,4.78,Non-smoker,Average,0
+24.98,4.87,Non-smoker,Poor,0
+32.69,1.98,1-10 cigarettes/day,Excellent,1
+24.74,2.66,Former smoker,Excellent,0
+31.79,1.27,1-10 cigarettes/day,Good,1
+27.72,5.52,Non-smoker,Poor,0
+21.41,0.4,>10 cigarettes/day,Excellent,0
+24.91,4.88,>10 cigarettes/day,Average,0
+30.75,5.45,Non-smoker,Excellent,0
+31.2,5.44,Non-smoker,Poor,0
+30.85,1.82,Former smoker,Poor,1
+32.54,2.62,Non-smoker,Average,1
+32.52,4.11,Former smoker,Poor,0
+27.78,1.91,Non-smoker,Poor,1
+37.78,2.6,Former smoker,Average,1
+26.4,1.38,1-10 cigarettes/day,Excellent,1
+27.87,3.22,>10 cigarettes/day,Poor,0
+37.68,0.31,Former smoker,Good,1
+35.83,5.6,>10 cigarettes/day,Poor,0
+33.63,0.54,1-10 cigarettes/day,Poor,1
+20.65,3.63,Former smoker,Average,0
+38.27,2.15,1-10 cigarettes/day,Average,1
+33.86,4.04,Former smoker,Average,0
+39.98,6.72,>10 cigarettes/day,Average,0
+21.71,4.52,1-10 cigarettes/day,Poor,0
+37.16,0.25,Non-smoker,Good,1
+21.99,3.01,1-10 cigarettes/day,Excellent,0
+31.73,3.57,Former smoker,Good,0
+21.16,3.75,>10 cigarettes/day,Good,0
+36.73,4.77,Non-smoker,Average,0
+35.86,1.94,Non-smoker,Poor,1
+30.74,0.9,1-10 cigarettes/day,Poor,1
+27.25,2.75,1-10 cigarettes/day,Poor,1
+19.99,6.69,Non-smoker,Excellent,0
+33.49,1.31,1-10 cigarettes/day,Good,1
+28.25,6.33,>10 cigarettes/day,Excellent,0
+34.02,3.81,Non-smoker,Excellent,0
+37.13,3.2,Non-smoker,Good,0
+39.47,6.17,1-10 cigarettes/day,Excellent,0
+36.9,3.21,1-10 cigarettes/day,Average,0
+18.75,5.07,Former smoker,Good,0
+26.24,2.79,1-10 cigarettes/day,Good,1
+34.19,6.33,Non-smoker,Good,0
+22.19,4.83,Non-smoker,Good,0
+29.7,4.9,Former smoker,Poor,0
+19.67,2.29,Former smoker,Excellent,0
+22.8,5.3,Non-smoker,Excellent,0
+18.9,4.45,Former smoker,Excellent,0
+35.56,1.68,Non-smoker,Good,1
+23.31,1.12,1-10 cigarettes/day,Excellent,0
+25.93,5.57,Non-smoker,Excellent,0
+38.45,6.71,Former smoker,Good,0
+33.64,3.21,1-10 cigarettes/day,Excellent,0
+19.18,4.14,Non-smoker,Good,0
+22.04,6.0,Non-smoker,Good,0
+31.86,3.2,Former smoker,Good,0
+30.91,6.66,Former smoker,Good,0
+23.61,4.03,>10 cigarettes/day,Average,0
+38.59,5.75,Non-smoker,Excellent,0
+31.7,6.36,1-10 cigarettes/day,Excellent,0
+30.02,5.71,Former smoker,Average,0
+31.18,1.12,1-10 cigarettes/day,Excellent,1
+34.2,4.4,>10 cigarettes/day,Poor,0
+25.21,2.79,Former smoker,Average,1
+27.06,0.44,1-10 cigarettes/day,Poor,1
+23.01,2.97,Non-smoker,Average,0
+22.5,1.81,1-10 cigarettes/day,Average,0
+38.8,5.94,Non-smoker,Average,0
+34.4,0.23,1-10 cigarettes/day,Excellent,1
+29.04,6.71,Non-smoker,Excellent,0
+23.39,2.49,Non-smoker,Poor,0
+23.97,2.5,1-10 cigarettes/day,Poor,0
+19.75,0.11,Former smoker,Average,0
+27.84,1.3,Non-smoker,Average,1
